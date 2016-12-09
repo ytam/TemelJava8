@@ -1,4 +1,4 @@
-package com.ytam.github.io;
+package OOP1;
 
 /**
  * Created by brusk on 12/9/16.

@@ -1,4 +1,4 @@
-package MethodExample;
+package io.github.ytam.MethodExample;
 
 /**
  * Created by brusk on 12/19/16.

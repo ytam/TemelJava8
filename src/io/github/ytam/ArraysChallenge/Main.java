@@ -1,4 +1,4 @@
-package ArraysChallenge;
+package io.github.ytam.ArraysChallenge;
 
 /**
  * Created by brusk on 12/12/16.

@@ -1,4 +1,4 @@
-package Arrays;
+package io.github.ytam.Arrays;
 
 import java.util.Scanner;
 

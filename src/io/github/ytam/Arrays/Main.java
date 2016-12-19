@@ -1,4 +1,4 @@
-package Arrays;
+package io.github.ytam.Arrays;
 
 /**
  * Created by brusk on 12/12/16.
